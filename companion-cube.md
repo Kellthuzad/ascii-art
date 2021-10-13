@@ -1,4 +1,4 @@
-companion cube ascii 
+## Companion Cube Ascii 
 
 ```
 #  ______    ______
